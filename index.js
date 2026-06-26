@@ -88,6 +88,7 @@ app.get('/api/products', (req, res) => {
         { id: 28, name: 'Product 28', price: 2800 },
         { id: 29, name: 'Product 29', price: 2900 },
         { id: 30, name: 'Product 30', price: 3000 },
+        { id: 31, name: 'Product 31', price: 3100 },
 
     ];
 
