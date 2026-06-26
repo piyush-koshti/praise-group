@@ -77,7 +77,18 @@ app.get('/api/products', (req, res) => {
         { id: 17, name: 'Product 17', price: 1700 },
         { id: 18, name: 'Product 18', price: 1800 },
         { id: 19, name: 'Product 19', price: 1900 },
-        { id: 20, name: 'Product 20', price: 2000 }
+        { id: 20, name: 'Product 20', price: 2000 },
+        { id: 21, name: 'Product 21', price: 2100 },
+        { id: 22, name: 'Product 22', price: 2200 },
+        { id: 23, name: 'Product 23', price: 2300 },
+        { id: 24, name: 'Product 24', price: 2400 },
+        { id: 25, name: 'Product 25', price: 2500 },
+        { id: 26, name: 'Product 26', price: 2600 },
+        { id: 27, name: 'Product 27', price: 2700 },
+        { id: 28, name: 'Product 28', price: 2800 },
+        { id: 29, name: 'Product 29', price: 2900 },
+        { id: 30, name: 'Product 30', price: 3000 },
+
     ];
 
     res.json({
